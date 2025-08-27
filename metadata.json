@@ -1,0 +1,5 @@
+{
+  "name": "Academic Task Manager",
+  "description": "An AI-powered assistant to help students organize their school tasks. It transforms daily brain dumps into a prioritized to-do list, encouraging proactive study habits and daily revision.",
+  "requestFramePermissions": []
+}
